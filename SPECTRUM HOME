@@ -18,7 +18,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image:url("/w3images/mac.jpg"); 
+  background-color: #4c6d18; 
   min-height: 100%;
 }
 
@@ -77,7 +77,7 @@ body, html {
 </header>
 
 <!-- About Section -->
-<div class="w3-container" style="padding:128px 16px" id="about">
+<div class="w3-container" style="padding:28px 16px" id="about">
   <h3 class="w3-center">ABOUT THE COMPANY</h3>
   <p class="w3-center w3-large">Key features of our company</p>
   <div class="w3-row-padding w3-center" style="margin-top:64px">
@@ -136,7 +136,7 @@ make it right!  Click here for more details on our policy.
 </div>
 
 <!-- Shop Section -->
-<div class="w3-container" style="padding:128px 16px" id="team">
+<div class="w3-container" style="padding:28px 16px" id="team">
   <h3 class="w3-center">THE SHOP</h3>
   <p class="w3-center w3-large">Browse the Spectrum Kratom store</p>
   <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
@@ -199,7 +199,7 @@ make it right!  Click here for more details on our policy.
 
 
 <!-- Contact Section -->
-<div class="w3-container w3-light-grey" style="padding:128px 16px" id="contact">
+<div class="w3-container w3-light-grey" style="padding:28px 16px" id="contact">
   <h3 class="w3-center">CONTACT</h3>
   <p class="w3-center w3-large">Lets get in touch. Send us a message:</p>
   <div style="margin-top:48px">
