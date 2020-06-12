@@ -52,9 +52,7 @@ body, html {
 <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">ABOUT</a>
-  <a href="#team" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
-  <a href="#work" onclick="w3_close()" class="w3-bar-item w3-button">WORK</a>
-  <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">PRICING</a>
+  <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">PRODUCTS</a>
   <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">CONTACT</a>
 </nav>
 
@@ -130,7 +128,7 @@ make it right!  Click here for more details on our policy.
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Shop</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src=<a href="https://imgur.com/fJXWNx1"><img src="https://i.imgur.com/fJXWNx1.png" title="source: imgur.com" /></a> alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src=<a href="https://imgur.com/fJXWNx1"><img src="https://i.imgur.com/fJXWNx1.png" title="source: imgur.com" /></a> <alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
@@ -142,7 +140,7 @@ make it right!  Click here for more details on our policy.
   <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="<a href="https://imgur.com/P83pPTd"><img src="https://i.imgur.com/P83pPTd.png" title="source: imgur.com" /></a>" alt="Caps" style="width:100%">
+        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" alt="Caps" style="width:100%">
         <div class="w3-container">
           <h3>Kratom Capsules</h3>
           
@@ -153,7 +151,7 @@ make it right!  Click here for more details on our policy.
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="<a href="https://imgur.com/P83pPTd"><img src="https://i.imgur.com/P83pPTd.png" title="source: imgur.com" /></a>" alt="Powder" style="width:100%">
+        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" alt="Powder" style="width:100%">
         <div class="w3-container">
           <h3>Kratom Powder</h3>
           
@@ -164,7 +162,7 @@ make it right!  Click here for more details on our policy.
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="<a href="https://imgur.com/P83pPTd"><img src="https://i.imgur.com/P83pPTd.png" title="source: imgur.com" /></a>" alt="Leaf" style="width:100%">
+        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" alt="Leaf" style="width:100%">
         <div class="w3-container">
           <h3>Kratom Leaf</h3>
           
@@ -175,7 +173,7 @@ make it right!  Click here for more details on our policy.
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="<a href="https://imgur.com/P83pPTd"><img src="https://i.imgur.com/P83pPTd.png" title="source: imgur.com" /></a>" alt="Tincture" style="width:100%">
+        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" alt="Tincture" style="width:100%">
         <div class="w3-container">
           <h3>Kratom Tincture</h3>
          
@@ -219,7 +217,7 @@ make it right!  Click here for more details on our policy.
       </p>
     </form>
     <!-- Image of location/map -->
-    <img src=<a href="https://imgur.com/JNhOqYu"><img src="https://i.imgur.com/JNhOqYu.png" title="source: imgur.com" /></a> class="make-it-fit" style="width:100%;margin-top:48px">
+    <img src=<a href="https://imgur.com/JNhOqYu"><img src="https://i.imgur.com/JNhOqYu.png" title="source: imgur.com" /></a> <class="make-it-fit" style="width:100%;margin-top:48px">
   </div>
 </div>
 
