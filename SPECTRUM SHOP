@@ -71,21 +71,21 @@ body, html {
  <!-- First Photo Grid-->
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> alt="Green" style="width:100%" class="w3-hover-opacity">
+      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> <alt="Green" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Green Vein</b></p>
         <p>Harvested from only the most mature Mitragyna Speciosa leaves, our Green Vein Kratom is finely ground and then either encapsulated or sold as powder depending on your preference. Other common names for this green vein Kratom strain are: green Borneo, green Sumatra, green Malay, and green Vietnam. The most popular name of all the green variations is Maeng Da, which is a modified variant of the traditional Thai strain of Kratom.</p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> alt="White" style="width:100%" class="w3-hover-opacity">
+      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> <alt="White" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>White Vein</b></p>
         <p>Harvested from only the most mature Mitragyna Speciosa leaves, our white Vein Kratom is finely ground and then either encapsulated or sold as powder depending on your preference. Other common names for this white vein Kratom strain are: white Sunda, white Indo, white Thai, white Elephant, and white Hulu Kapaus (among others). </p>
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> alt="Red" style="width:100%" class="w3-hover-opacity">
+      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> <alt="Red" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Red Vein</b></p>
         <p>Harvested from only the most mature Mitragyna Speciosa leaves, our Red Vein Kratom is finely ground and then either encapsulated or sold as powder depending on your preference. Other common names for this red vein Kratom strain are: red Bali, red Horned, red Sumatra, red Kali, and red Hulu (among others).</p>
@@ -113,7 +113,7 @@ img {
   <!-- START Second Photo Grid-->
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> alt="Scale" style="width:100%" class="w3-hover-opacity">
+      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> <alt="Scale" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>AWS-600 Digital Scale</b></p>
         <p>At Spectrum Kratom we believe it’s very important to be accurate
@@ -127,7 +127,7 @@ simple yet effective one.</p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> alt="Bucket" style="width:100%" class="w3-hover-opacity">
+      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> <alt="Bucket" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Kratom Tea Bucket</b></p>
         <p>Reusable Stainless Steel Tea Infusing Mesh Brewing Basket
@@ -140,7 +140,7 @@ simple yet effective one.</p>
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> alt="Machine" style="width:100%" class="w3-hover-opacity">
+      <img src=<a href="https://imgur.com/EE80imF"><img src="https://i.imgur.com/EE80imF.png" title="source: imgur.com" /></a> <alt="Machine" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>The Capsule Machine</b></p>
         <p>Do you like to cap your own? Just in case you’re looking for a fun and exciting new hobby, you can buy this handy dandy little capsule filler machine and encapsulate your own Kratom! Each Double Zero (00) capsule should hold approximately .5 grams (500 mg) of Kratom. We also provide you with 100 empty capsules, either Vegan or Standard Gelatin. Have fun guys!</p>
