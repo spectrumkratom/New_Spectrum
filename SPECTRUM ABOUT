@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<title>Spectrum About</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Oswald", sans-serif}
+
+body, html {
+  height: 80%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-color: #4c6d18; 
+  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-card" id="myNavbar">
+    <a href="#home" class="w3-bar-item w3-button w3-wide"><a href="https://imgur.com/yOcgLMD"><img src="https://i.imgur.com/yOcgLMD.png" title="source: imgur.com" /></a></a>
+    <!-- Right-sided navbar links -->
+    <div class="w3-right w3-hide-small">
+      <a href="#about" class="w3-bar-item w3-button">HOME</a>
+      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> SHOP</a>
+     
+    </div>
+    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+</div>
+
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+  <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">HOME</a>
+  <a href="#work" onclick="w3_close()" class="w3-bar-item w3-button">SHOP</a>
+</nav>
+
+<!-- Header with full-height image -->
+<header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
+  <div class="w3-display-left w3-text-white" style="padding:48px">
+    <span class="w3-jumbo w3-hide-small">About Spectrum Kratom</span><br>
+    <span class="w3-xxlarge w3-hide-large w3-hide-medium">About Spectrum Kratom</span><br>
+    <span class="w3-large">Experience the full spectrum.</span>
+    <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Explore our store.</a></p>
+  </div> 
+  <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+  </div>
+</header>
+
+<div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Different Forums of Kratom</h3>
+
+ <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a> <alt="Caps" style="width:100%">
+      <h3>Caps</h3>
+
+      <p>The most popular and convenient way to consume Kratom.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Shop</button></p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a> <alt="Powder" style="width:100%">
+      <h3>Powder</h3>
+      <p>Great for mixing with a smoothies or glass of juice.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Shop</button></p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a> <alt="Leaf" style="width:100%">
+      <h3>Leaf</h3>
+      <p>Enjoy a cold or hot brew of Kratom tea using a tea bucket.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Shop</button></p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a> <alt="Tincture" style="width:100%">
+      <h3>Tincture</h3>
+      <p>An Ethanol extracted & concentrated liquid form of Kratom.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Shop</button></p>
+    </div>
+  </div>
+
+
+
+
+
+<div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Kratom Basics</h3>
+    <p>Kratom is a large leaf from the Indonesian tree called Mitragyna Speciosa, which is more commonly referred to as Biak-Biak by native Indonesians (or simply the Kratom Tree). Spectrum Kratom imports this leaf in a crushed leaf or powder form directly from the indigenous farmers, where samples are then sent out to a third-party laboratory to verify potency, cleanliness, and a litany of other characteristics with consumer safety in mind. After our leaf or powder passes these rigorous lab tests, it’s then encapsulated and packaged here at our facility. It is important to note that even though Kratom is an unregulated product, we impose these self-regulations in accordance with cGMP standards to keep our consumers safe and to offer peace of mind.
+    </p>
+
+<div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">GMP</h3>
+    <p>Spectrum Kratom is excited to announce its GMP certification verified through the American Kratom Association’s GMP program official auditors. GMP simply means “Good Manufacturing Practices” and includes such facets as lab testing all of our products being sold, manufacturing them within a clean/sterile environment, implementing traceability, lot numbers and batch records, along with annual 3rd party facility audits.
+    </p>
+
+<div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Alkaloids</h3>
+    <p>Mitragynine and 7-hydroxymitragynine are Kratom’s most abundant & active alkaloids. Although little research has been completed as to these alkaloid’s long-term effects, Spectrum Kratom uses an accredited third party laboratory to test for both of Kratom’s alkaloid percentages (which we print on your package for reference).
+
+In addition, Spectrum Kratom tests for a multitude of other assays such as: E Coli, bacteria levels, Salmonella, heavy metals content and more. We promise that as more research is completed & documented on this miraculous plant that our standards will adjust accordingly.
+    </p>
+
+
+
+
+
+  <!-- TEAM Section -->
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Mission Statement</h3>
+    <p>Spectrum Kratom is excited to announce its GMP certification verified through the American Kratom Association’s GMP 
+    program official auditors. GMP simply means “Good Manufacturing Practices” and includes such facets as lab testing all of 
+    our products being sold, manufacturing them within a clean/sterile environment, implementing traceability, 
+    lot numbers and batch records, along with annual 3rd party facility audits. In addition, Spectrum Kratom tests for a multitude of other assays such as: E Coli, bacteria levels, Salmonella,
+      heavy metals content and more. We promise that as more research is completed & documented on this miraculous plant 
+      that our standards will adjust accordingly.
+    </p>
+     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Meet the team! </h3>
+  </div>
+
+  <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a> <alt="Brett" style="width:100%">
+      <h3>Brett</h3>
+      <p class="w3-opacity">Co-Founder</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a> <alt="Ted" style="width:100%">
+      <h3>Ted</h3>
+      <p class="w3-opacity">Co-Founder</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a> <alt="Conor" style="width:100%">
+      <h3>Conor</h3>
+      <p class="w3-opacity">Manager</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a> <alt="Ellie" style="width:100%">
+      <h3>Ellie</h3>
+      <p class="w3-opacity">Customer Service</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+  </div>
+  
+   <!-- Contact Section -->
+  <div class="w3-container w3-padding-32" id="contact">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
+    <p>Reach out if you have any questions about Spectrum Kratom.</p>
+    <form action="/action_page.php" target="_blank">
+      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
+      <button class="w3-button w3-black w3-section" type="submit">
+        <i class="fa fa-paper-plane"></i> SEND MESSAGE
+      </button>
+    </form>
+  </div>
+  
+
+  
+<!-- Image of location/map -->
+<div class="w3-container">
+  <img src=<a href="https://imgur.com/JNhOqYu"><img src="https://i.imgur.com/JNhOqYu.png" title="source: imgur.com" /></a></a> <class="w3-image" style="width:100%">
+</div>
+
+<!-- End page content -->
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+ </p>
+</footer>
+
+</body>
+</html>
