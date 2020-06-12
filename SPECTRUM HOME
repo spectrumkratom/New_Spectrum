@@ -34,7 +34,6 @@ body, html {
     <a href="#home" class="w3-bar-item w3-button w3-wide"><a href="https://imgur.com/yOcgLMD"><img src="https://i.imgur.com/yOcgLMD.png" title="source: imgur.com" /></a></a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
-      <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> ABOUT US</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> LAB TESTING</a>
       <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> PRODUCTS</a>
@@ -128,7 +127,7 @@ make it right!  Click here for more details on our policy.
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Shop</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src=<a href="https://imgur.com/fJXWNx1"><img src="https://i.imgur.com/fJXWNx1.png" title="source: imgur.com" /></a> <alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src=<a href="https://imgur.com/CxBixsN"><img src="https://i.imgur.com/CxBixsN.png" title="source: imgur.com" </a> /></a> <alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
@@ -140,7 +139,7 @@ make it right!  Click here for more details on our policy.
   <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" alt="Caps" style="width:100%">
+        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" <alt="Caps" style="width:100%">
         <div class="w3-container">
           <h3>Kratom Capsules</h3>
           
@@ -151,7 +150,7 @@ make it right!  Click here for more details on our policy.
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" alt="Powder" style="width:100%">
+        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" <alt="Powder" style="width:100%">
         <div class="w3-container">
           <h3>Kratom Powder</h3>
           
@@ -162,7 +161,7 @@ make it right!  Click here for more details on our policy.
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" alt="Leaf" style="width:100%">
+        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" <alt="Leaf" style="width:100%">
         <div class="w3-container">
           <h3>Kratom Leaf</h3>
           
@@ -173,7 +172,7 @@ make it right!  Click here for more details on our policy.
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" alt="Tincture" style="width:100%">
+        <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a></a>" <alt="Tincture" style="width:100%">
         <div class="w3-container">
           <h3>Kratom Tincture</h3>
          
@@ -218,6 +217,10 @@ make it right!  Click here for more details on our policy.
     </form>
     <!-- Image of location/map -->
     <img src=<a href="https://imgur.com/JNhOqYu"><img src="https://i.imgur.com/JNhOqYu.png" title="source: imgur.com" /></a> <class="make-it-fit" style="width:100%;margin-top:48px">
+    <p> Spectrum Kratom
+    	3137 Tiger Run CT
+        STE 113
+        Carlsbad, CA 92010</p>
   </div>
 </div>
 
