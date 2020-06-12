@@ -85,7 +85,7 @@ body, html {
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src=<a href="https://imgur.com/KzoXJuw"><img src="https://i.imgur.com/KzoXJuw.png" title="source: imgur.com" /></a> <alt="Powder" style="width:100%">
       <h3>Powder</h3>
-      <p>Great for mixing with a smoothies or glass of juice.</p>
+      <p>Great for mixing with a smoothies or glass of juice, best results when using a scale.</p>
       <p><button class="w3-button w3-light-grey w3-block">Shop</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -114,6 +114,9 @@ body, html {
 <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">GMP</h3>
     <p>Spectrum Kratom is excited to announce its GMP certification verified through the American Kratom Association’s GMP program official auditors. GMP simply means “Good Manufacturing Practices” and includes such facets as lab testing all of our products being sold, manufacturing them within a clean/sterile environment, implementing traceability, lot numbers and batch records, along with annual 3rd party facility audits.
+    <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src=<a href="https://imgur.com/XlZeLAO"><img src="https://i.imgur.com/XlZeLAO.png" title="source: imgur.com" /></a> <charset="utf-8"></script></a> <alt="cGMp" width="400" height="100">
+    </div>
     </p>
 
 <div class="w3-container w3-padding-32" id="about">
@@ -122,7 +125,9 @@ body, html {
 
 In addition, Spectrum Kratom tests for a multitude of other assays such as: E Coli, bacteria levels, Salmonella, heavy metals content and more. We promise that as more research is completed & documented on this miraculous plant that our standards will adjust accordingly.
     </p>
-
+   <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src=<a href="https://imgur.com/X40ZUqe"><img src="https://i.imgur.com/X40ZUqe.png" title="source: imgur.com" /></a> <charset="utf-8"></script></a> <alt="Buildings" width="700" height="394">
+    </div>
 
 
 
@@ -185,7 +190,6 @@ In addition, Spectrum Kratom tests for a multitude of other assays such as: E Co
       </button>
     </form>
   </div>
-  
 
 
 </body>
